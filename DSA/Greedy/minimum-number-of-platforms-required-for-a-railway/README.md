@@ -1,4 +1,4 @@
-# [Minimum number of platforms required for a railway](https://takeuforward.org/plus/dsa/problems/minimum-number-of-platforms-required-for-a-railway?subject=dsa&approach=brute&sidebar=open&tab=submissions)
+# [Minimum number of platforms required for a railway](https://takeuforward.org/plus/dsa/problems/minimum-number-of-platforms-required-for-a-railway?subject=dsa&approach=optimal-approach&sidebar=open&tab=submissions)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
