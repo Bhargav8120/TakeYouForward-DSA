@@ -1,4 +1,4 @@
-# [Candy](https://takeuforward.org/plus/dsa/problems/candy?subject=dsa&approach=better&tab=submissions)
+# [Candy](https://takeuforward.org/plus/dsa/problems/candy?subject=dsa&approach=optimal&sidebar=open&tab=submissions)
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
 

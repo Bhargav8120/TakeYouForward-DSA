@@ -14,7 +14,7 @@
 
 | # | Title | Solution(s) | Difficulty | Category |
 | :---: | :--- | :---: | :---: | :--- |
-| 0001 | [Candy](./DSA/Greedy/candy) | [Solution-2](./DSA/Greedy/candy/Solution-2.cpp) [Solution-3](./DSA/Greedy/candy/Solution-3.cpp) | 🔴 Hard | `DSA` / `Greedy` |
+| 0001 | [Candy](./DSA/Greedy/candy) | [Solution-2](./DSA/Greedy/candy/Solution-2.cpp) [Solution-3](./DSA/Greedy/candy/Solution-3.cpp) [Solution-4](./DSA/Greedy/candy/Solution-4.cpp) | 🔴 Hard | `DSA` / `Greedy` |
 | 0002 | [Insert Interval](./DSA/Greedy/insert-interval) | [SOLUTION-2](./DSA/Greedy/insert-interval/Solution-2.cpp) | 🟡 Medium | `DSA` / `Greedy` |
 | 0003 | [Job sequencing Problem](./DSA/Greedy/job-sequencing-problem) | [SOLUTION-2](./DSA/Greedy/job-sequencing-problem/Solution-2.cpp) | 🟡 Medium | `DSA` / `Greedy` |
 | 0004 | [Minimum number of platforms required for a railway](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway) | [SOLUTION-2](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway/Solution-2.cpp) [SOLUTION-3](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway/Solution-3.cpp) | 🟡 Medium | `DSA` / `Greedy` |
