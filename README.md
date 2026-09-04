@@ -19,7 +19,7 @@
 | 0003 | [Insert Interval](./DSA/Greedy/insert-interval) | [SOLUTION-2](./DSA/Greedy/insert-interval/Solution-2.cpp) | 🟡 Medium | `DSA` / `Greedy` |
 | 0004 | [Job sequencing Problem](./DSA/Greedy/job-sequencing-problem) | [SOLUTION-2](./DSA/Greedy/job-sequencing-problem/Solution-2.cpp) | 🟡 Medium | `DSA` / `Greedy` |
 | 0005 | [Level Order Traversal](./DSA/Trees/level-order-traversal) | [CPP](./DSA/Trees/level-order-traversal/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
-| 0006 | [Maximum Depth in BT](./DSA/Trees/maximum-depth-in-bt) | [CPP](./DSA/Trees/maximum-depth-in-bt/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
+| 0006 | [Maximum Depth in BT](./DSA/Trees/maximum-depth-in-bt) | [CPP](./DSA/Trees/maximum-depth-in-bt/solution.cpp) [Solution-2](./DSA/Trees/maximum-depth-in-bt/Solution-2.cpp) | 🟡 Medium | `DSA` / `Trees` |
 | 0007 | [Minimum number of platforms required for a railway](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway) | [SOLUTION-2](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway/Solution-2.cpp) [SOLUTION-3](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway/Solution-3.cpp) | 🟡 Medium | `DSA` / `Greedy` |
 | 0008 | [N meetings in one room](./DSA/Greedy/n-meetings-in-one-room) | [SOLUTION-2](./DSA/Greedy/n-meetings-in-one-room/Solution-2.cpp) | 🟡 Medium | `DSA` / `Greedy` |
 | 0009 | [Non-overlapping Intervals](./DSA/Greedy/non-overlapping-intervals) | [CPP](./DSA/Greedy/non-overlapping-intervals/solution.cpp) | 🟡 Medium | `DSA` / `Greedy` |
