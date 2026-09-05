@@ -1,4 +1,4 @@
-# [Check for balanced binary tree](https://takeuforward.org/plus/dsa/problems/check-for-balanced-binary-tree?subject=dsa&approach=iterative&tab=submissions)
+# [Check for balanced binary tree](https://takeuforward.org/plus/dsa/problems/check-for-balanced-binary-tree?subject=dsa&approach=optimal&tab=submissions)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -29,6 +29,14 @@ A tree is height-balanced if the difference between the heights of left and righ
 **Output:** No</p><p>
 
 **Explanation:** </p><img src="https://static.takeuforward.org/content/ProblemSetter-BEw-GjtR">
+
+### Example 3
+
+<p>
+
+**Input:** &nbsp;root = [5, 1, 2, 8, 3, null, 5, null, 4]</p>Output:
+
+Yes
 
 ### Constraints
 
