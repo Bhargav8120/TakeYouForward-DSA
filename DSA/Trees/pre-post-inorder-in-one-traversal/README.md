@@ -1,4 +1,4 @@
-# [Pre, Post, Inorder in one traversal](https://takeuforward.org/plus/dsa/problems/pre,-post,-inorder-in-one-traversal?subject=dsa&approach=recursive-approach&tab=submissions)
+# [Pre, Post, Inorder in one traversal](https://takeuforward.org/plus/dsa/problems/pre,-post,-inorder-in-one-traversal?subject=dsa&approach=optimal&tab=submissions)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
