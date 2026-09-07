@@ -17,7 +17,7 @@
 | 0001 | [Candy](./DSA/Greedy/candy) | [SOLUTION-2](./DSA/Greedy/candy/Solution-2.cpp) [SOLUTION-3](./DSA/Greedy/candy/Solution-3.cpp) [SOLUTION-4](./DSA/Greedy/candy/Solution-4.cpp) | 🔴 Hard | `DSA` / `Greedy` |
 | 0002 | [Check for balanced binary tree](./DSA/Trees/check-for-balanced-binary-tree) | [SOLUTION-2](./DSA/Trees/check-for-balanced-binary-tree/Solution-2.cpp) | 🟡 Medium | `DSA` / `Trees` |
 | 0003 | [Check if two trees are identical or not](./DSA/Trees/check-if-two-trees-are-identical-or-not) | [CPP](./DSA/Trees/check-if-two-trees-are-identical-or-not/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
-| 0004 | [Diameter of Binary Tree](./DSA/Trees/diameter-of-binary-tree) | [CPP](./DSA/Trees/diameter-of-binary-tree/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
+| 0004 | [Diameter of Binary Tree](./DSA/Trees/diameter-of-binary-tree) | [CPP](./DSA/Trees/diameter-of-binary-tree/solution.cpp) [Solution-2](./DSA/Trees/diameter-of-binary-tree/Solution-2.cpp) | 🟢 Easy | `DSA` / `Trees` |
 | 0005 | [Inorder Traversal](./DSA/Trees/inorder-traversal) | [CPP](./DSA/Trees/inorder-traversal/solution.cpp) [SOLUTION-2](./DSA/Trees/inorder-traversal/Solution-2.cpp) | 🟢 Easy | `DSA` / `Trees` |
 | 0006 | [Insert Interval](./DSA/Greedy/insert-interval) | [SOLUTION-2](./DSA/Greedy/insert-interval/Solution-2.cpp) | 🟡 Medium | `DSA` / `Greedy` |
 | 0007 | [Job sequencing Problem](./DSA/Greedy/job-sequencing-problem) | [SOLUTION-2](./DSA/Greedy/job-sequencing-problem/Solution-2.cpp) | 🟡 Medium | `DSA` / `Greedy` |
