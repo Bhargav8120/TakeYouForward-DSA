@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **23** | 8 | 13 | 2 | `2026-09-08` |
+| **24** | 8 | 14 | 2 | `2026-09-09` |
 
 ---
 
@@ -36,7 +36,8 @@
 | 0020 | [Quick Sorting](./DSA/Sorting/quick-sorting) | [CPP](./DSA/Sorting/quick-sorting/solution.cpp) [SOLUTION-2](./DSA/Sorting/quick-sorting/Solution-2.cpp) | 🟢 Easy | `DSA` |
 | 0021 | [Shortest Job First](./DSA/Greedy/shortest-job-first) | [SOLUTION-1](./DSA/Greedy/shortest-job-first/Solution-1.cpp) | 🟡 Medium | `DSA` / `Greedy` |
 | 0022 | [Valid Paranthesis Checker](./DSA/Greedy/valid-paranthesis-checker) | [CPP](./DSA/Greedy/valid-paranthesis-checker/solution.cpp) | 🔴 Hard | `DSA` / `Greedy` |
-| 0023 | [Zig Zag or Spiral Traversal](./DSA/Trees/zig-zag-or-spiral-traversal) | [CPP](./DSA/Trees/zig-zag-or-spiral-traversal/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
+| 0023 | [Vertical Order Traversal](./DSA/Trees/vertical-order-traversal) | [CPP](./DSA/Trees/vertical-order-traversal/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
+| 0024 | [Zig Zag or Spiral Traversal](./DSA/Trees/zig-zag-or-spiral-traversal) | [CPP](./DSA/Trees/zig-zag-or-spiral-traversal/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
 
 ---
 
