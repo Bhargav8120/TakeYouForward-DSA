@@ -19,7 +19,7 @@
 | 0003 | [Check for balanced binary tree](./DSA/Trees/check-for-balanced-binary-tree) | [SOLUTION-2](./DSA/Trees/check-for-balanced-binary-tree/Solution-2.cpp) | 🟡 Medium | `DSA` / `Trees` |
 | 0004 | [Check for symmetrical BTs](./DSA/Trees/check-for-symmetrical-bts) | [CPP](./DSA/Trees/check-for-symmetrical-bts/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
 | 0005 | [Check if two trees are identical or not](./DSA/Trees/check-if-two-trees-are-identical-or-not) | [CPP](./DSA/Trees/check-if-two-trees-are-identical-or-not/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
-| 0006 | [Diameter of Binary Tree](./DSA/Trees/diameter-of-binary-tree) | [SOLUTION-2](./DSA/Trees/diameter-of-binary-tree/Solution-2.cpp) [CPP](./DSA/Trees/diameter-of-binary-tree/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
+| 0006 | [Diameter of Binary Tree](./DSA/Trees/diameter-of-binary-tree) | [CPP](./DSA/Trees/diameter-of-binary-tree/solution.cpp) [SOLUTION-2](./DSA/Trees/diameter-of-binary-tree/Solution-2.cpp) | 🟢 Easy | `DSA` / `Trees` |
 | 0007 | [Inorder Traversal](./DSA/Trees/inorder-traversal) | [CPP](./DSA/Trees/inorder-traversal/solution.cpp) [SOLUTION-2](./DSA/Trees/inorder-traversal/Solution-2.cpp) | 🟢 Easy | `DSA` / `Trees` |
 | 0008 | [Insert Interval](./DSA/Greedy/insert-interval) | [SOLUTION-2](./DSA/Greedy/insert-interval/Solution-2.cpp) | 🟡 Medium | `DSA` / `Greedy` |
 | 0009 | [Job sequencing Problem](./DSA/Greedy/job-sequencing-problem) | [SOLUTION-2](./DSA/Greedy/job-sequencing-problem/Solution-2.cpp) | 🟡 Medium | `DSA` / `Greedy` |
@@ -29,7 +29,7 @@
 | 0013 | [Minimum number of platforms required for a railway](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway) | [SOLUTION-2](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway/Solution-2.cpp) [SOLUTION-3](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway/Solution-3.cpp) | 🟡 Medium | `DSA` / `Greedy` |
 | 0014 | [Move Zeros to End](./DSA/Arrays/move-zeros-to-end) | [SOLUTION-2](./DSA/Arrays/move-zeros-to-end/Solution-2.cpp) | 🟢 Easy | `DSA` / `Arrays` |
 | 0015 | [N meetings in one room](./DSA/Greedy/n-meetings-in-one-room) | [Solution-3](./DSA/Greedy/n-meetings-in-one-room/Solution-3.cpp) | 🟡 Medium | `DSA` / `Greedy` |
-| 0016 | [Non-overlapping Intervals](./DSA/Greedy/non-overlapping-intervals) | [CPP](./DSA/Greedy/non-overlapping-intervals/solution.cpp) | 🟡 Medium | `DSA` / `Greedy` |
+| 0016 | [Non-overlapping Intervals](./DSA/Greedy/non-overlapping-intervals) | [Solution-2](./DSA/Greedy/non-overlapping-intervals/Solution-2.cpp) | 🟡 Medium | `DSA` / `Greedy` |
 | 0017 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [CPP](./DSA/Trees/postorder-traversal/solution.cpp) [SOLUTION-2](./DSA/Trees/postorder-traversal/Solution-2.cpp) | 🟢 Easy | `DSA` / `Trees` |
 | 0018 | [Pre, Post, Inorder in one traversal](./DSA/Trees/pre-post-inorder-in-one-traversal) | [SOLUTION-3](./DSA/Trees/pre-post-inorder-in-one-traversal/Solution-3.cpp) | 🟢 Easy | `DSA` / `Trees` |
 | 0019 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [CPP](./DSA/Trees/preorder-traversal/solution.cpp) [SOLUTION-2](./DSA/Trees/preorder-traversal/Solution-2.cpp) | 🟢 Easy | `DSA` / `Trees` |

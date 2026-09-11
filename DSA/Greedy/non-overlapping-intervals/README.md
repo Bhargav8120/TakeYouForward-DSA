@@ -1,4 +1,4 @@
-# [Non-overlapping Intervals](https://takeuforward.org/plus/dsa/problems/non-overlapping-intervals?subject=dsa&approach=brute&sidebar=open&tab=submissions)
+# [Non-overlapping Intervals](https://takeuforward.org/plus/dsa/problems/non-overlapping-intervals?subject=dsa&approach=optimal&tab=submissions)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
