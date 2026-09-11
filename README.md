@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **25** | 8 | 15 | 2 | `2026-09-10` |
+| **25** | 8 | 15 | 2 | `2026-09-11` |
 
 ---
 
@@ -28,7 +28,7 @@
 | 0012 | [Maximum path sum](./DSA/Trees/maximum-path-sum) | [CPP](./DSA/Trees/maximum-path-sum/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
 | 0013 | [Minimum number of platforms required for a railway](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway) | [SOLUTION-2](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway/Solution-2.cpp) [SOLUTION-3](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway/Solution-3.cpp) | 🟡 Medium | `DSA` / `Greedy` |
 | 0014 | [Move Zeros to End](./DSA/Arrays/move-zeros-to-end) | [SOLUTION-2](./DSA/Arrays/move-zeros-to-end/Solution-2.cpp) | 🟢 Easy | `DSA` / `Arrays` |
-| 0015 | [N meetings in one room](./DSA/Greedy/n-meetings-in-one-room) | [SOLUTION-2](./DSA/Greedy/n-meetings-in-one-room/Solution-2.cpp) | 🟡 Medium | `DSA` / `Greedy` |
+| 0015 | [N meetings in one room](./DSA/Greedy/n-meetings-in-one-room) | [Solution-3](./DSA/Greedy/n-meetings-in-one-room/Solution-3.cpp) | 🟡 Medium | `DSA` / `Greedy` |
 | 0016 | [Non-overlapping Intervals](./DSA/Greedy/non-overlapping-intervals) | [CPP](./DSA/Greedy/non-overlapping-intervals/solution.cpp) | 🟡 Medium | `DSA` / `Greedy` |
 | 0017 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [CPP](./DSA/Trees/postorder-traversal/solution.cpp) [SOLUTION-2](./DSA/Trees/postorder-traversal/Solution-2.cpp) | 🟢 Easy | `DSA` / `Trees` |
 | 0018 | [Pre, Post, Inorder in one traversal](./DSA/Trees/pre-post-inorder-in-one-traversal) | [SOLUTION-3](./DSA/Trees/pre-post-inorder-in-one-traversal/Solution-3.cpp) | 🟢 Easy | `DSA` / `Trees` |

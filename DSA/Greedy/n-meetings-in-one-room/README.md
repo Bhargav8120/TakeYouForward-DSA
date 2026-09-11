@@ -1,4 +1,4 @@
-# [N meetings in one room](https://takeuforward.org/plus/dsa/problems/n-meetings-in-one-room?subject=dsa&approach=brute&tab=submissions)
+# [N meetings in one room](https://takeuforward.org/plus/dsa/problems/n-meetings-in-one-room?subject=dsa&approach=optimal&tab=submissions)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
