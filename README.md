@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **25** | 8 | 15 | 2 | `2026-09-11` |
+| **25** | 8 | 15 | 2 | `2026-09-12` |
 
 ---
 
@@ -28,8 +28,8 @@
 | 0012 | [Maximum path sum](./DSA/Trees/maximum-path-sum) | [CPP](./DSA/Trees/maximum-path-sum/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
 | 0013 | [Minimum number of platforms required for a railway](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway) | [SOLUTION-2](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway/Solution-2.cpp) [SOLUTION-3](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway/Solution-3.cpp) | 🟡 Medium | `DSA` / `Greedy` |
 | 0014 | [Move Zeros to End](./DSA/Arrays/move-zeros-to-end) | [SOLUTION-2](./DSA/Arrays/move-zeros-to-end/Solution-2.cpp) | 🟢 Easy | `DSA` / `Arrays` |
-| 0015 | [N meetings in one room](./DSA/Greedy/n-meetings-in-one-room) | [Solution-3](./DSA/Greedy/n-meetings-in-one-room/Solution-3.cpp) | 🟡 Medium | `DSA` / `Greedy` |
-| 0016 | [Non-overlapping Intervals](./DSA/Greedy/non-overlapping-intervals) | [Solution-2](./DSA/Greedy/non-overlapping-intervals/Solution-2.cpp) | 🟡 Medium | `DSA` / `Greedy` |
+| 0015 | [N meetings in one room](./DSA/Greedy/n-meetings-in-one-room) | [SOLUTION-3](./DSA/Greedy/n-meetings-in-one-room/Solution-3.cpp) | 🟡 Medium | `DSA` / `Greedy` |
+| 0016 | [Non-overlapping Intervals](./DSA/Greedy/non-overlapping-intervals) | [SOLUTION-2](./DSA/Greedy/non-overlapping-intervals/Solution-2.cpp) | 🟡 Medium | `DSA` / `Greedy` |
 | 0017 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [CPP](./DSA/Trees/postorder-traversal/solution.cpp) [SOLUTION-2](./DSA/Trees/postorder-traversal/Solution-2.cpp) | 🟢 Easy | `DSA` / `Trees` |
 | 0018 | [Pre, Post, Inorder in one traversal](./DSA/Trees/pre-post-inorder-in-one-traversal) | [SOLUTION-3](./DSA/Trees/pre-post-inorder-in-one-traversal/Solution-3.cpp) | 🟢 Easy | `DSA` / `Trees` |
 | 0019 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [CPP](./DSA/Trees/preorder-traversal/solution.cpp) [SOLUTION-2](./DSA/Trees/preorder-traversal/Solution-2.cpp) | 🟢 Easy | `DSA` / `Trees` |
@@ -37,7 +37,7 @@
 | 0021 | [Shortest Job First](./DSA/Greedy/shortest-job-first) | [SOLUTION-1](./DSA/Greedy/shortest-job-first/Solution-1.cpp) | 🟡 Medium | `DSA` / `Greedy` |
 | 0022 | [Top View of BT](./DSA/Trees/top-view-of-bt) | [CPP](./DSA/Trees/top-view-of-bt/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
 | 0023 | [Valid Paranthesis Checker](./DSA/Greedy/valid-paranthesis-checker) | [CPP](./DSA/Greedy/valid-paranthesis-checker/solution.cpp) | 🔴 Hard | `DSA` / `Greedy` |
-| 0024 | [Vertical Order Traversal](./DSA/Trees/vertical-order-traversal) | [CPP](./DSA/Trees/vertical-order-traversal/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
+| 0024 | [Vertical Order Traversal](./DSA/Trees/vertical-order-traversal) | [Solution-2](./DSA/Trees/vertical-order-traversal/Solution-2.cpp) | 🟡 Medium | `DSA` / `Trees` |
 | 0025 | [Zig Zag or Spiral Traversal](./DSA/Trees/zig-zag-or-spiral-traversal) | [CPP](./DSA/Trees/zig-zag-or-spiral-traversal/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
 
 ---
