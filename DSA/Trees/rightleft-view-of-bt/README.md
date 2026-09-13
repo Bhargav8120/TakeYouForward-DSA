@@ -1,4 +1,4 @@
-# [Right/Left View of BT](https://takeuforward.org/plus/dsa/problems/right-left-view-of-bt?subject=dsa&approach=brute&tab=submissions)
+# [Right/Left View of BT](https://takeuforward.org/plus/dsa/problems/right-left-view-of-bt?subject=dsa&approach=optimal&tab=submissions)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -27,6 +27,14 @@ Assuming standing on the **right** side of a binary tree and given its root, ret
 **Output:** [1, 3, 4]</p><p>
 
 **Explanation:** </p><img src="https://static.takeuforward.org/content/ProblemSetter-eG7sS1fB">
+
+### Example 3
+
+<p>
+
+**Input:** root = [5, 1, 2, 8, null, 4, 5, null, 6]</p>Output:
+
+[5, 2, 5, 6]
 
 ### Constraints
 
