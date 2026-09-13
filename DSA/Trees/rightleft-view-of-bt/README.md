@@ -1,4 +1,4 @@
-# [Right/Left View of BT](https://takeuforward.org/plus/dsa/problems/right-left-view-of-bt?subject=dsa&approach=optimal&tab=submissions)
+# [Right/Left View of BT](https://takeuforward.org/plus/dsa/problems/right-left-view-of-bt?subject=dsa&approach=brute&tab=submissions)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
