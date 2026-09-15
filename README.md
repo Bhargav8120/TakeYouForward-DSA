@@ -25,7 +25,7 @@
 | 0009 | [Inorder Traversal](./DSA/Trees/inorder-traversal) | [Solution-3](./DSA/Trees/inorder-traversal/Solution-3.cpp) | 🟢 Easy | `DSA` / `Trees` |
 | 0010 | [Insert Interval](./DSA/Greedy/insert-interval) | [SOLUTION-2](./DSA/Greedy/insert-interval/Solution-2.cpp) | 🟡 Medium | `DSA` / `Greedy` |
 | 0011 | [Job sequencing Problem](./DSA/Greedy/job-sequencing-problem) | [SOLUTION-2](./DSA/Greedy/job-sequencing-problem/Solution-2.cpp) | 🟡 Medium | `DSA` / `Greedy` |
-| 0012 | [Level Order Traversal](./DSA/Trees/level-order-traversal) | [CPP](./DSA/Trees/level-order-traversal/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
+| 0012 | [Level Order Traversal](./DSA/Trees/level-order-traversal) | [Solution-3](./DSA/Trees/level-order-traversal/Solution-3.cpp) | 🟢 Easy | `DSA` / `Trees` |
 | 0013 | [Maximum Depth in BT](./DSA/Trees/maximum-depth-in-bt) | [CPP](./DSA/Trees/maximum-depth-in-bt/solution.cpp) [SOLUTION-2](./DSA/Trees/maximum-depth-in-bt/Solution-2.cpp) | 🟡 Medium | `DSA` / `Trees` |
 | 0014 | [Maximum path sum](./DSA/Trees/maximum-path-sum) | [CPP](./DSA/Trees/maximum-path-sum/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
 | 0015 | [Minimum number of platforms required for a railway](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway) | [SOLUTION-2](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway/Solution-2.cpp) [SOLUTION-3](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway/Solution-3.cpp) | 🟡 Medium | `DSA` / `Greedy` |

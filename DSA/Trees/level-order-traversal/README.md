@@ -1,4 +1,4 @@
-# [Level Order Traversal](https://takeuforward.org/plus/dsa/problems/level-order-traversal?subject=dsa&approach=recursive-approach&tab=submissions)
+# [Level Order Traversal](https://takeuforward.org/plus/dsa/problems/level-order-traversal?subject=dsa&approach=optimal&tab=submissions)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -31,6 +31,14 @@ Given the root of a binary tree, return the **level order** traversal of its nod
 **Explanation:** </p>
 
 <img src="https://static.takeuforward.org/content/ProblemSetter-6BBpQBUc">
+
+### Example 3
+
+<p>
+
+**Input:** root = [5, 1, 2, 8, null, 4, 5, null, 6]</p>Output:
+
+[ [5], [1, 2], [8, 4, 5], [6] ]
 
 ### Constraints
 
