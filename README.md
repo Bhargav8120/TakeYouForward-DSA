@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **29** | 8 | 19 | 2 | `2026-09-14` |
+| **29** | 8 | 19 | 2 | `2026-09-15` |
 
 ---
 
@@ -19,10 +19,10 @@
 | 0003 | [Candy](./DSA/Greedy/candy) | [SOLUTION-2](./DSA/Greedy/candy/Solution-2.cpp) [SOLUTION-3](./DSA/Greedy/candy/Solution-3.cpp) [SOLUTION-4](./DSA/Greedy/candy/Solution-4.cpp) | 🔴 Hard | `DSA` / `Greedy` |
 | 0004 | [Check for balanced binary tree](./DSA/Trees/check-for-balanced-binary-tree) | [SOLUTION-2](./DSA/Trees/check-for-balanced-binary-tree/Solution-2.cpp) [CPP](./DSA/Trees/check-for-balanced-binary-tree/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
 | 0005 | [Check for symmetrical BTs](./DSA/Trees/check-for-symmetrical-bts) | [CPP](./DSA/Trees/check-for-symmetrical-bts/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
-| 0006 | [Check if LL is palindrome or not](./DSA/Linked-List/check-if-ll-is-palindrome-or-not) | [Solution-2](./DSA/Linked-List/check-if-ll-is-palindrome-or-not/Solution-2.cpp) | 🟡 Medium | `DSA` / `Linked-List` |
+| 0006 | [Check if LL is palindrome or not](./DSA/Linked-List/check-if-ll-is-palindrome-or-not) | [SOLUTION-2](./DSA/Linked-List/check-if-ll-is-palindrome-or-not/Solution-2.cpp) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0007 | [Check if two trees are identical or not](./DSA/Trees/check-if-two-trees-are-identical-or-not) | [CPP](./DSA/Trees/check-if-two-trees-are-identical-or-not/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
 | 0008 | [Diameter of Binary Tree](./DSA/Trees/diameter-of-binary-tree) | [SOLUTION-2](./DSA/Trees/diameter-of-binary-tree/Solution-2.cpp) [CPP](./DSA/Trees/diameter-of-binary-tree/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
-| 0009 | [Inorder Traversal](./DSA/Trees/inorder-traversal) | [SOLUTION-2](./DSA/Trees/inorder-traversal/Solution-2.cpp) [CPP](./DSA/Trees/inorder-traversal/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
+| 0009 | [Inorder Traversal](./DSA/Trees/inorder-traversal) | [Solution-3](./DSA/Trees/inorder-traversal/Solution-3.cpp) | 🟢 Easy | `DSA` / `Trees` |
 | 0010 | [Insert Interval](./DSA/Greedy/insert-interval) | [SOLUTION-2](./DSA/Greedy/insert-interval/Solution-2.cpp) | 🟡 Medium | `DSA` / `Greedy` |
 | 0011 | [Job sequencing Problem](./DSA/Greedy/job-sequencing-problem) | [SOLUTION-2](./DSA/Greedy/job-sequencing-problem/Solution-2.cpp) | 🟡 Medium | `DSA` / `Greedy` |
 | 0012 | [Level Order Traversal](./DSA/Trees/level-order-traversal) | [CPP](./DSA/Trees/level-order-traversal/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
