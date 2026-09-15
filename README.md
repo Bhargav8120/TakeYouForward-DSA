@@ -33,7 +33,7 @@
 | 0017 | [N meetings in one room](./DSA/Greedy/n-meetings-in-one-room) | [SOLUTION-2](./DSA/Greedy/n-meetings-in-one-room/Solution-2.cpp) [SOLUTION-3](./DSA/Greedy/n-meetings-in-one-room/Solution-3.cpp) | 🟡 Medium | `DSA` / `Greedy` |
 | 0018 | [Non-overlapping Intervals](./DSA/Greedy/non-overlapping-intervals) | [CPP](./DSA/Greedy/non-overlapping-intervals/solution.cpp) [SOLUTION-2](./DSA/Greedy/non-overlapping-intervals/Solution-2.cpp) | 🟡 Medium | `DSA` / `Greedy` |
 | 0019 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [Solution-4](./DSA/Trees/postorder-traversal/Solution-4.cpp) | 🟢 Easy | `DSA` / `Trees` |
-| 0020 | [Pre, Post, Inorder in one traversal](./DSA/Trees/pre-post-inorder-in-one-traversal) | [CPP](./DSA/Trees/pre-post-inorder-in-one-traversal/solution.cpp) [SOLUTION-2](./DSA/Trees/pre-post-inorder-in-one-traversal/Solution-2.cpp) [SOLUTION-3](./DSA/Trees/pre-post-inorder-in-one-traversal/Solution-3.cpp) | 🟢 Easy | `DSA` / `Trees` |
+| 0020 | [Pre, Post, Inorder in one traversal](./DSA/Trees/pre-post-inorder-in-one-traversal) | [Solution-4](./DSA/Trees/pre-post-inorder-in-one-traversal/Solution-4.cpp) | 🟢 Easy | `DSA` / `Trees` |
 | 0021 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [CPP](./DSA/Trees/preorder-traversal/solution.cpp) [SOLUTION-2](./DSA/Trees/preorder-traversal/Solution-2.cpp) | 🟢 Easy | `DSA` / `Trees` |
 | 0022 | [Print root to leaf path in BT](./DSA/Trees/print-root-to-leaf-path-in-bt) | [CPP](./DSA/Trees/print-root-to-leaf-path-in-bt/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
 | 0023 | [Quick Sorting](./DSA/Sorting/quick-sorting) | [CPP](./DSA/Sorting/quick-sorting/solution.cpp) [SOLUTION-2](./DSA/Sorting/quick-sorting/Solution-2.cpp) | 🟢 Easy | `DSA` |
