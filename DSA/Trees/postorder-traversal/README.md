@@ -1,4 +1,4 @@
-# [Postorder Traversal](https://takeuforward.org/plus/dsa/problems/postorder-traversal?subject=dsa&approach=iterative-approach&tab=submissions)
+# [Postorder Traversal](https://takeuforward.org/plus/dsa/problems/postorder-traversal?subject=dsa&approach=optimal&tab=submissions)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
