@@ -44,6 +44,14 @@ The&nbsp; **right boundary** &nbsp;is similar to the&nbsp; **left boundary** , e
 
 **Explanation:** </p><img src="https://static.takeuforward.org/content/ProblemSetter-o0-6k-B_">
 
+### Example 3
+
+<p>
+
+**Input:** root = [5, 1, 2, 8, null, 4, 5, null, 6]</p>Output:
+
+[5, 1, 8, 6, 4, 5, 2]
+
 ### Constraints
 
 - 0 <= Number of Nodes <= 10^4

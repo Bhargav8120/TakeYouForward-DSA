@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **31** | 8 | 20 | 3 | `2026-09-16` |
+| **31** | 8 | 20 | 3 | `2026-09-17` |
 
 ---
 
@@ -15,7 +15,7 @@
 | # | Title | Solution(s) | Difficulty | Category |
 | :---: | :--- | :---: | :---: | :--- |
 | 0001 | [Bottom view of BT](./DSA/Trees/bottom-view-of-bt) | [CPP](./DSA/Trees/bottom-view-of-bt/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
-| 0002 | [Boundary Traversal](./DSA/Trees/boundary-traversal) | [CPP](./DSA/Trees/boundary-traversal/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
+| 0002 | [Boundary Traversal](./DSA/Trees/boundary-traversal) | [Solution-2](./DSA/Trees/boundary-traversal/Solution-2.cpp) | 🟡 Medium | `DSA` / `Trees` |
 | 0003 | [Candy](./DSA/Greedy/candy) | [SOLUTION-2](./DSA/Greedy/candy/Solution-2.cpp) [SOLUTION-3](./DSA/Greedy/candy/Solution-3.cpp) [SOLUTION-4](./DSA/Greedy/candy/Solution-4.cpp) | 🔴 Hard | `DSA` / `Greedy` |
 | 0004 | [Check for balanced binary tree](./DSA/Trees/check-for-balanced-binary-tree) | [CPP](./DSA/Trees/check-for-balanced-binary-tree/solution.cpp) [SOLUTION-2](./DSA/Trees/check-for-balanced-binary-tree/Solution-2.cpp) | 🟡 Medium | `DSA` / `Trees` |
 | 0005 | [Check for symmetrical BTs](./DSA/Trees/check-for-symmetrical-bts) | [CPP](./DSA/Trees/check-for-symmetrical-bts/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
