@@ -41,7 +41,7 @@
 | 0025 | [Quick Sorting](./DSA/Sorting/quick-sorting) | [CPP](./DSA/Sorting/quick-sorting/solution.cpp) [SOLUTION-2](./DSA/Sorting/quick-sorting/Solution-2.cpp) | 🟢 Easy | `DSA` |
 | 0026 | [Right/Left View of BT](./DSA/Trees/rightleft-view-of-bt) | [CPP](./DSA/Trees/rightleft-view-of-bt/solution.cpp) [SOLUTION-2](./DSA/Trees/rightleft-view-of-bt/Solution-2.cpp) [SOLUTION-3](./DSA/Trees/rightleft-view-of-bt/Solution-3.cpp) | 🟡 Medium | `DSA` / `Trees` |
 | 0027 | [Shortest Job First](./DSA/Greedy/shortest-job-first) | [SOLUTION-1](./DSA/Greedy/shortest-job-first/Solution-1.cpp) | 🟡 Medium | `DSA` / `Greedy` |
-| 0028 | [Top View of BT](./DSA/Trees/top-view-of-bt) | [CPP](./DSA/Trees/top-view-of-bt/solution.cpp) [SOLUTION-2](./DSA/Trees/top-view-of-bt/Solution-2.cpp) | 🟡 Medium | `DSA` / `Trees` |
+| 0028 | [Top View of BT](./DSA/Trees/top-view-of-bt) | [Solution-3](./DSA/Trees/top-view-of-bt/Solution-3.cpp) | 🟡 Medium | `DSA` / `Trees` |
 | 0029 | [Valid Paranthesis Checker](./DSA/Greedy/valid-paranthesis-checker) | [CPP](./DSA/Greedy/valid-paranthesis-checker/solution.cpp) | 🔴 Hard | `DSA` / `Greedy` |
 | 0030 | [Vertical Order Traversal](./DSA/Trees/vertical-order-traversal) | [CPP](./DSA/Trees/vertical-order-traversal/solution.cpp) [SOLUTION-2](./DSA/Trees/vertical-order-traversal/Solution-2.cpp) | 🟡 Medium | `DSA` / `Trees` |
 | 0031 | [Zig Zag or Spiral Traversal](./DSA/Trees/zig-zag-or-spiral-traversal) | [CPP](./DSA/Trees/zig-zag-or-spiral-traversal/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
