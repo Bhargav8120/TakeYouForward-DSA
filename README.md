@@ -21,7 +21,7 @@
 | 0005 | [Check for symmetrical BTs](./DSA/Trees/check-for-symmetrical-bts) | [CPP](./DSA/Trees/check-for-symmetrical-bts/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
 | 0006 | [Check if LL is palindrome or not](./DSA/Linked-List/check-if-ll-is-palindrome-or-not) | [SOLUTION-2](./DSA/Linked-List/check-if-ll-is-palindrome-or-not/Solution-2.cpp) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0007 | [Check if two trees are identical or not](./DSA/Trees/check-if-two-trees-are-identical-or-not) | [CPP](./DSA/Trees/check-if-two-trees-are-identical-or-not/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
-| 0008 | [Count total nodes in a complete BT](./DSA/Trees/count-total-nodes-in-a-complete-bt) | [CPP](./DSA/Trees/count-total-nodes-in-a-complete-bt/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
+| 0008 | [Count total nodes in a complete BT](./DSA/Trees/count-total-nodes-in-a-complete-bt) | [CPP](./DSA/Trees/count-total-nodes-in-a-complete-bt/solution.cpp) [Solution-2](./DSA/Trees/count-total-nodes-in-a-complete-bt/Solution-2.cpp) | 🟢 Easy | `DSA` / `Trees` |
 | 0009 | [Diameter of Binary Tree](./DSA/Trees/diameter-of-binary-tree) | [CPP](./DSA/Trees/diameter-of-binary-tree/solution.cpp) [SOLUTION-2](./DSA/Trees/diameter-of-binary-tree/Solution-2.cpp) | 🟢 Easy | `DSA` / `Trees` |
 | 0010 | [Inorder Traversal](./DSA/Trees/inorder-traversal) | [SOLUTION-3](./DSA/Trees/inorder-traversal/Solution-3.cpp) | 🟢 Easy | `DSA` / `Trees` |
 | 0011 | [Insert Interval](./DSA/Greedy/insert-interval) | [SOLUTION-2](./DSA/Greedy/insert-interval/Solution-2.cpp) | 🟡 Medium | `DSA` / `Greedy` |
