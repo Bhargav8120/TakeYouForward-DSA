@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **38** | 9 | 21 | 8 | `2026-09-19` |
+| **39** | 9 | 21 | 9 | `2026-09-19` |
 
 ---
 
@@ -35,23 +35,24 @@
 | 0019 | [Maximum Width of BT](./DSA/Trees/maximum-width-of-bt) | [CPP](./DSA/Trees/maximum-width-of-bt/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
 | 0020 | [Minimum number of platforms required for a railway](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway) | [Solution-2](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway/Solution-2.cpp) [Solution-3](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway/Solution-3.cpp) | 🟡 Medium | `DSA` / `Greedy` |
 | 0021 | [Minimum time taken to burn the BT from a given Node](./DSA/Trees/minimum-time-taken-to-burn-the-bt-from-a-given-node) | [CPP](./DSA/Trees/minimum-time-taken-to-burn-the-bt-from-a-given-node/solution.cpp) | 🔴 Hard | `DSA` / `Trees` |
-| 0022 | [Move Zeros to End](./DSA/Arrays/move-zeros-to-end) | [Solution-2](./DSA/Arrays/move-zeros-to-end/Solution-2.cpp) | 🟢 Easy | `DSA` / `Arrays` |
-| 0023 | [N meetings in one room](./DSA/Greedy/n-meetings-in-one-room) | [Solution-2](./DSA/Greedy/n-meetings-in-one-room/Solution-2.cpp) [Solution-3](./DSA/Greedy/n-meetings-in-one-room/Solution-3.cpp) | 🟡 Medium | `DSA` / `Greedy` |
-| 0024 | [Non-overlapping Intervals](./DSA/Greedy/non-overlapping-intervals) | [Solution-2](./DSA/Greedy/non-overlapping-intervals/Solution-2.cpp) [CPP](./DSA/Greedy/non-overlapping-intervals/solution.cpp) | 🟡 Medium | `DSA` / `Greedy` |
-| 0025 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [Solution-2](./DSA/Trees/postorder-traversal/Solution-2.cpp) [Solution-4](./DSA/Trees/postorder-traversal/Solution-4.cpp) [CPP](./DSA/Trees/postorder-traversal/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
-| 0026 | [Pre, Post, Inorder in one traversal](./DSA/Trees/pre-post-inorder-in-one-traversal) | [Solution-2](./DSA/Trees/pre-post-inorder-in-one-traversal/Solution-2.cpp) [Solution-3](./DSA/Trees/pre-post-inorder-in-one-traversal/Solution-3.cpp) [Solution-4](./DSA/Trees/pre-post-inorder-in-one-traversal/Solution-4.cpp) [CPP](./DSA/Trees/pre-post-inorder-in-one-traversal/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
-| 0027 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [Solution-2](./DSA/Trees/preorder-traversal/Solution-2.cpp) [CPP](./DSA/Trees/preorder-traversal/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
-| 0028 | [Print all nodes at a distance of K in BT](./DSA/Trees/print-all-nodes-at-a-distance-of-k-in-bt) | [CPP](./DSA/Trees/print-all-nodes-at-a-distance-of-k-in-bt/solution.cpp) | 🔴 Hard | `DSA` / `Trees` |
-| 0029 | [Print root to leaf path in BT](./DSA/Trees/print-root-to-leaf-path-in-bt) | [CPP](./DSA/Trees/print-root-to-leaf-path-in-bt/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
-| 0030 | [Quick Sorting](./DSA/Sorting/quick-sorting) | [Solution-2](./DSA/Sorting/quick-sorting/Solution-2.cpp) [CPP](./DSA/Sorting/quick-sorting/solution.cpp) | 🟢 Easy | `DSA` |
-| 0031 | [Requirements needed to construct a unique BT](./DSA/Trees/requirements-needed-to-construct-a-unique-bt) | [CPP](./DSA/Trees/requirements-needed-to-construct-a-unique-bt/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
-| 0032 | [Right/Left View of BT](./DSA/Trees/rightleft-view-of-bt) | [Solution-2](./DSA/Trees/rightleft-view-of-bt/Solution-2.cpp) [Solution-3](./DSA/Trees/rightleft-view-of-bt/Solution-3.cpp) [Solution-4](./DSA/Trees/rightleft-view-of-bt/Solution-4.cpp) [CPP](./DSA/Trees/rightleft-view-of-bt/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
-| 0033 | [Serialize and De-serialize BT](./DSA/Trees/serialize-and-de-serialize-bt) | [CPP](./DSA/Trees/serialize-and-de-serialize-bt/solution.cpp) | 🔴 Hard | `DSA` / `Trees` |
-| 0034 | [Shortest Job First](./DSA/Greedy/shortest-job-first) | [Solution-1](./DSA/Greedy/shortest-job-first/Solution-1.cpp) | 🟡 Medium | `DSA` / `Greedy` |
-| 0035 | [Top View of BT](./DSA/Trees/top-view-of-bt) | [Solution-2](./DSA/Trees/top-view-of-bt/Solution-2.cpp) [Solution-3](./DSA/Trees/top-view-of-bt/Solution-3.cpp) [CPP](./DSA/Trees/top-view-of-bt/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
-| 0036 | [Valid Paranthesis Checker](./DSA/Greedy/valid-paranthesis-checker) | [CPP](./DSA/Greedy/valid-paranthesis-checker/solution.cpp) | 🔴 Hard | `DSA` / `Greedy` |
-| 0037 | [Vertical Order Traversal](./DSA/Trees/vertical-order-traversal) | [Solution-2](./DSA/Trees/vertical-order-traversal/Solution-2.cpp) [CPP](./DSA/Trees/vertical-order-traversal/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
-| 0038 | [Zig Zag or Spiral Traversal](./DSA/Trees/zig-zag-or-spiral-traversal) | [CPP](./DSA/Trees/zig-zag-or-spiral-traversal/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
+| 0022 | [Morris Inorder Traversal](./DSA/Trees/morris-inorder-traversal) | [CPP](./DSA/Trees/morris-inorder-traversal/solution.cpp) | 🔴 Hard | `DSA` / `Trees` |
+| 0023 | [Move Zeros to End](./DSA/Arrays/move-zeros-to-end) | [Solution-2](./DSA/Arrays/move-zeros-to-end/Solution-2.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0024 | [N meetings in one room](./DSA/Greedy/n-meetings-in-one-room) | [Solution-2](./DSA/Greedy/n-meetings-in-one-room/Solution-2.cpp) [Solution-3](./DSA/Greedy/n-meetings-in-one-room/Solution-3.cpp) | 🟡 Medium | `DSA` / `Greedy` |
+| 0025 | [Non-overlapping Intervals](./DSA/Greedy/non-overlapping-intervals) | [Solution-2](./DSA/Greedy/non-overlapping-intervals/Solution-2.cpp) [CPP](./DSA/Greedy/non-overlapping-intervals/solution.cpp) | 🟡 Medium | `DSA` / `Greedy` |
+| 0026 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [Solution-2](./DSA/Trees/postorder-traversal/Solution-2.cpp) [Solution-4](./DSA/Trees/postorder-traversal/Solution-4.cpp) [CPP](./DSA/Trees/postorder-traversal/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
+| 0027 | [Pre, Post, Inorder in one traversal](./DSA/Trees/pre-post-inorder-in-one-traversal) | [Solution-2](./DSA/Trees/pre-post-inorder-in-one-traversal/Solution-2.cpp) [Solution-3](./DSA/Trees/pre-post-inorder-in-one-traversal/Solution-3.cpp) [Solution-4](./DSA/Trees/pre-post-inorder-in-one-traversal/Solution-4.cpp) [CPP](./DSA/Trees/pre-post-inorder-in-one-traversal/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
+| 0028 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [Solution-2](./DSA/Trees/preorder-traversal/Solution-2.cpp) [CPP](./DSA/Trees/preorder-traversal/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
+| 0029 | [Print all nodes at a distance of K in BT](./DSA/Trees/print-all-nodes-at-a-distance-of-k-in-bt) | [CPP](./DSA/Trees/print-all-nodes-at-a-distance-of-k-in-bt/solution.cpp) | 🔴 Hard | `DSA` / `Trees` |
+| 0030 | [Print root to leaf path in BT](./DSA/Trees/print-root-to-leaf-path-in-bt) | [CPP](./DSA/Trees/print-root-to-leaf-path-in-bt/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
+| 0031 | [Quick Sorting](./DSA/Sorting/quick-sorting) | [Solution-2](./DSA/Sorting/quick-sorting/Solution-2.cpp) [CPP](./DSA/Sorting/quick-sorting/solution.cpp) | 🟢 Easy | `DSA` |
+| 0032 | [Requirements needed to construct a unique BT](./DSA/Trees/requirements-needed-to-construct-a-unique-bt) | [CPP](./DSA/Trees/requirements-needed-to-construct-a-unique-bt/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
+| 0033 | [Right/Left View of BT](./DSA/Trees/rightleft-view-of-bt) | [Solution-2](./DSA/Trees/rightleft-view-of-bt/Solution-2.cpp) [Solution-3](./DSA/Trees/rightleft-view-of-bt/Solution-3.cpp) [Solution-4](./DSA/Trees/rightleft-view-of-bt/Solution-4.cpp) [CPP](./DSA/Trees/rightleft-view-of-bt/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
+| 0034 | [Serialize and De-serialize BT](./DSA/Trees/serialize-and-de-serialize-bt) | [CPP](./DSA/Trees/serialize-and-de-serialize-bt/solution.cpp) | 🔴 Hard | `DSA` / `Trees` |
+| 0035 | [Shortest Job First](./DSA/Greedy/shortest-job-first) | [Solution-1](./DSA/Greedy/shortest-job-first/Solution-1.cpp) | 🟡 Medium | `DSA` / `Greedy` |
+| 0036 | [Top View of BT](./DSA/Trees/top-view-of-bt) | [Solution-2](./DSA/Trees/top-view-of-bt/Solution-2.cpp) [Solution-3](./DSA/Trees/top-view-of-bt/Solution-3.cpp) [CPP](./DSA/Trees/top-view-of-bt/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
+| 0037 | [Valid Paranthesis Checker](./DSA/Greedy/valid-paranthesis-checker) | [CPP](./DSA/Greedy/valid-paranthesis-checker/solution.cpp) | 🔴 Hard | `DSA` / `Greedy` |
+| 0038 | [Vertical Order Traversal](./DSA/Trees/vertical-order-traversal) | [Solution-2](./DSA/Trees/vertical-order-traversal/Solution-2.cpp) [CPP](./DSA/Trees/vertical-order-traversal/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
+| 0039 | [Zig Zag or Spiral Traversal](./DSA/Trees/zig-zag-or-spiral-traversal) | [CPP](./DSA/Trees/zig-zag-or-spiral-traversal/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
 
 ---
 
