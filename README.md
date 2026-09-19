@@ -35,7 +35,7 @@
 | 0019 | [Maximum Width of BT](./DSA/Trees/maximum-width-of-bt) | [CPP](./DSA/Trees/maximum-width-of-bt/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
 | 0020 | [Minimum number of platforms required for a railway](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway) | [Solution-2](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway/Solution-2.cpp) [Solution-3](./DSA/Greedy/minimum-number-of-platforms-required-for-a-railway/Solution-3.cpp) | 🟡 Medium | `DSA` / `Greedy` |
 | 0021 | [Minimum time taken to burn the BT from a given Node](./DSA/Trees/minimum-time-taken-to-burn-the-bt-from-a-given-node) | [CPP](./DSA/Trees/minimum-time-taken-to-burn-the-bt-from-a-given-node/solution.cpp) | 🔴 Hard | `DSA` / `Trees` |
-| 0022 | [Morris Inorder Traversal](./DSA/Trees/morris-inorder-traversal) | [CPP](./DSA/Trees/morris-inorder-traversal/solution.cpp) | 🔴 Hard | `DSA` / `Trees` |
+| 0022 | [Morris Inorder Traversal](./DSA/Trees/morris-inorder-traversal) | [CPP](./DSA/Trees/morris-inorder-traversal/solution.cpp) [Solution-2](./DSA/Trees/morris-inorder-traversal/Solution-2.cpp) | 🔴 Hard | `DSA` / `Trees` |
 | 0023 | [Move Zeros to End](./DSA/Arrays/move-zeros-to-end) | [Solution-2](./DSA/Arrays/move-zeros-to-end/Solution-2.cpp) | 🟢 Easy | `DSA` / `Arrays` |
 | 0024 | [N meetings in one room](./DSA/Greedy/n-meetings-in-one-room) | [Solution-2](./DSA/Greedy/n-meetings-in-one-room/Solution-2.cpp) [Solution-3](./DSA/Greedy/n-meetings-in-one-room/Solution-3.cpp) | 🟡 Medium | `DSA` / `Greedy` |
 | 0025 | [Non-overlapping Intervals](./DSA/Greedy/non-overlapping-intervals) | [Solution-2](./DSA/Greedy/non-overlapping-intervals/Solution-2.cpp) [CPP](./DSA/Greedy/non-overlapping-intervals/solution.cpp) | 🟡 Medium | `DSA` / `Greedy` |
