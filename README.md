@@ -21,7 +21,7 @@
 | 0005 | [Check for symmetrical BTs](./DSA/Trees/check-for-symmetrical-bts) | [CPP](./DSA/Trees/check-for-symmetrical-bts/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
 | 0006 | [Check if LL is palindrome or not](./DSA/Linked-List/check-if-ll-is-palindrome-or-not) | [SOLUTION-2](./DSA/Linked-List/check-if-ll-is-palindrome-or-not/Solution-2.cpp) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0007 | [Check if two trees are identical or not](./DSA/Trees/check-if-two-trees-are-identical-or-not) | [CPP](./DSA/Trees/check-if-two-trees-are-identical-or-not/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
-| 0008 | [Construct a BT from Postorder and Inorder](./DSA/Trees/construct-a-bt-from-postorder-and-inorder) | [CPP](./DSA/Trees/construct-a-bt-from-postorder-and-inorder/solution.cpp) | 🔴 Hard | `DSA` / `Trees` |
+| 0008 | [Construct a BT from Postorder and Inorder](./DSA/Trees/construct-a-bt-from-postorder-and-inorder) | [Solution-2](./DSA/Trees/construct-a-bt-from-postorder-and-inorder/Solution-2.cpp) | 🔴 Hard | `DSA` / `Trees` |
 | 0009 | [Construct a BT from Preorder and Inorder](./DSA/Trees/construct-a-bt-from-preorder-and-inorder) | [Solution-2](./DSA/Trees/construct-a-bt-from-preorder-and-inorder/Solution-2.cpp) | 🔴 Hard | `DSA` / `Trees` |
 | 0010 | [Count total nodes in a complete BT](./DSA/Trees/count-total-nodes-in-a-complete-bt) | [CPP](./DSA/Trees/count-total-nodes-in-a-complete-bt/solution.cpp) [SOLUTION-2](./DSA/Trees/count-total-nodes-in-a-complete-bt/Solution-2.cpp) | 🟢 Easy | `DSA` / `Trees` |
 | 0011 | [Diameter of Binary Tree](./DSA/Trees/diameter-of-binary-tree) | [CPP](./DSA/Trees/diameter-of-binary-tree/solution.cpp) [SOLUTION-2](./DSA/Trees/diameter-of-binary-tree/Solution-2.cpp) | 🟢 Easy | `DSA` / `Trees` |
