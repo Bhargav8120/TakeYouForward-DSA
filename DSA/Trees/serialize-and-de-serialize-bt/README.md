@@ -28,6 +28,14 @@ The encoded string should be as **compact** as possible.
 
 **Output:** [7, 3, 15, null, null, 9, 20]</p>
 
+### Example 3
+
+<p>
+
+**Input:** root = [10, 20, 30, 40, 50, 60]</p>Output:
+
+[10, 20, 30, 40, 50, 60]
+
 ### Constraints
 
 - 1 <= Number of Nodes <= 10^4
