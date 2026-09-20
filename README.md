@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **42** | 9 | 23 | 10 | `2026-09-20` |
+| **43** | 9 | 24 | 10 | `2026-09-20` |
 
 ---
 
@@ -52,10 +52,11 @@
 | 0036 | [Serialize and De-serialize BT](./DSA/Trees/serialize-and-de-serialize-bt) | [Solution-2](./DSA/Trees/serialize-and-de-serialize-bt/Solution-2.cpp) | 🔴 Hard | `DSA` / `Trees` |
 | 0037 | [Shortest Job First](./DSA/Greedy/shortest-job-first) | [SOLUTION-1](./DSA/Greedy/shortest-job-first/Solution-1.cpp) | 🟡 Medium | `DSA` / `Greedy` |
 | 0038 | [Single Number - I](./DSA/Bit-Manipulation/single-number-i) | [CPP](./DSA/Bit-Manipulation/single-number-i/solution.cpp) | 🟡 Medium | `DSA` / `Bit-Manipulation` |
-| 0039 | [Top View of BT](./DSA/Trees/top-view-of-bt) | [CPP](./DSA/Trees/top-view-of-bt/solution.cpp) [SOLUTION-2](./DSA/Trees/top-view-of-bt/Solution-2.cpp) [SOLUTION-3](./DSA/Trees/top-view-of-bt/Solution-3.cpp) | 🟡 Medium | `DSA` / `Trees` |
-| 0040 | [Valid Paranthesis Checker](./DSA/Greedy/valid-paranthesis-checker) | [CPP](./DSA/Greedy/valid-paranthesis-checker/solution.cpp) | 🔴 Hard | `DSA` / `Greedy` |
-| 0041 | [Vertical Order Traversal](./DSA/Trees/vertical-order-traversal) | [CPP](./DSA/Trees/vertical-order-traversal/solution.cpp) [SOLUTION-2](./DSA/Trees/vertical-order-traversal/Solution-2.cpp) | 🟡 Medium | `DSA` / `Trees` |
-| 0042 | [Zig Zag or Spiral Traversal](./DSA/Trees/zig-zag-or-spiral-traversal) | [CPP](./DSA/Trees/zig-zag-or-spiral-traversal/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
+| 0039 | [Single Number - II](./DSA/Bit-Manipulation/single-number-ii) | [CPP](./DSA/Bit-Manipulation/single-number-ii/solution.cpp) | 🟡 Medium | `DSA` / `Bit-Manipulation` |
+| 0040 | [Top View of BT](./DSA/Trees/top-view-of-bt) | [CPP](./DSA/Trees/top-view-of-bt/solution.cpp) [SOLUTION-2](./DSA/Trees/top-view-of-bt/Solution-2.cpp) [SOLUTION-3](./DSA/Trees/top-view-of-bt/Solution-3.cpp) | 🟡 Medium | `DSA` / `Trees` |
+| 0041 | [Valid Paranthesis Checker](./DSA/Greedy/valid-paranthesis-checker) | [CPP](./DSA/Greedy/valid-paranthesis-checker/solution.cpp) | 🔴 Hard | `DSA` / `Greedy` |
+| 0042 | [Vertical Order Traversal](./DSA/Trees/vertical-order-traversal) | [CPP](./DSA/Trees/vertical-order-traversal/solution.cpp) [SOLUTION-2](./DSA/Trees/vertical-order-traversal/Solution-2.cpp) | 🟡 Medium | `DSA` / `Trees` |
+| 0043 | [Zig Zag or Spiral Traversal](./DSA/Trees/zig-zag-or-spiral-traversal) | [CPP](./DSA/Trees/zig-zag-or-spiral-traversal/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
 
 ---
 
