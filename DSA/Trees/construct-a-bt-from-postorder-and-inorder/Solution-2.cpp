@@ -28,7 +28,7 @@ public:
 
         TreeNode* root=new TreeNode(postorder[postEnd]);
 
-        int inRoot = inMap[postorder[postEnd]];
+        int inRoot = inMap[root->data];
 
         int numsLeft = inRoot - inStart;
 
